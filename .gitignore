@@ -1,0 +1,6 @@
+# 浏览器缓存
+.edge-cdp/
+# Qoder工具目录
+.qoder/
+# 忽略所有.log文件
+*.log
